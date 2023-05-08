@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "BulletinRemoteAPI",
+    name: "bulletin-remote-api-client",
     defaultLocalization: "en",
     platforms: [
         .iOS("16.4")
